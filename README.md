@@ -1,2 +1,2 @@
 # docker-image
-Create a docker image 
+Create a simple docker image 
